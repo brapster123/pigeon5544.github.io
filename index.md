@@ -3,6 +3,10 @@
 Welcome to brapsters plumbing service.
 Here you can read up on the information about the service.
 
+### where we are locatey
+
+in brapo's establishment.
+
 ### Prices
 
 The pricing plan is very basic, every job is a tenner.
